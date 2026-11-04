@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    background: #000;
+    overflow: hidden;
+    font-family: sans-serif;
+}
+canvas {
+    display: block;
+}
+#ui {
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+    color: #fff;
+    font-family: sans-serif;
+}
+.hp {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
